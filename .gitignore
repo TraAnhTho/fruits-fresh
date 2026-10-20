@@ -1,0 +1,12 @@
+data_nhom/
+sultana_256/
+pachon_224/
+tuchup_256/
+pachon_256/
+gan_nhan_B/
+kq_*/mau/*.jpg
+kq_*/mau/*.jpeg
+kq_*/mau/*.png
+kq_*/sach/
+kq_*/loai/
+__pycache__/

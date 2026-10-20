@@ -1,0 +1,12 @@
+Thư mục nguồn : data_nhom/sultana/cam
+Ngưỡng dùng    : mờ<100.0  tối<50.0  sáng>215.0 hoặc cháy>30%  cạnh nhỏ<224px  trùng(Hamming<=5)
+Tổng ảnh       : 400
+Ảnh đạt        : 44 (11.0%)
+Ảnh bị loại    : 356 (89.0%)
+Một ảnh có thể dính nhiều lý do. Số ảnh theo lý do:
+   - mo        : 353 (88.2%)
+   - chay_sang : 2 (0.5%)
+   - trung     : 43 (10.8%)
+Theo thư mục (đạt / tổng):
+   - hong                                     40/200 (20.0%)
+   - tuoi                                     4/200 (2.0%)
